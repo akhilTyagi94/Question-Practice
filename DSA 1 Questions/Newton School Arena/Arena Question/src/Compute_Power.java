@@ -1,3 +1,24 @@
+/*
+Compute power
+Time Limit: 2, Memory Limit: 256000
+
+You are given two numbers n and p. You need to find n raised to the power p.
+
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function RecursivePower that takes the integer n and p as a parameter.
+
+Constraints:
+1 <= T <= 10
+1 <= n, p <= 9
+
+Output
+Return n^p.
+
+ */
+
+
+
 import java.util.Scanner;
 
 public class Compute_Power {
